@@ -1,0 +1,23 @@
+name: nicoledechow
+favicon: null
+layout_spectrum: 0.3255153058562428
+typography_spectrum: 0.8736512830946594
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.05192624730989337
+  lightness: 0.5235636362340301
+  saturation: 0.6123440400697291
+  rhythmicContrast: 0.498690984910354
+purpose: []
